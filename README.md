@@ -26,7 +26,7 @@ Graphical Representations
 
 Insights Gained
 
-- [Insert key insights gained from the analysis, e.g., "The majority of employees are concentrated in Team A," or "There is a strong positive correlation between age and salary."]
+"The majority of employees are concentrated in Team A, There is a strong positive correlation between age and salary.
 
 Dataset
 
@@ -36,14 +36,7 @@ Code
 
 The code for this project is contained in the employee_analysis.ipynb Jupyter Notebook file.
 
-Acknowledgments
-
-- [Insert any acknowledgments or credits, e.g., "Special thanks to [Name] for providing guidance and support."]
-
-License
-
-This project is licensed under the [Insert license, e.g., "MIT License"].
 
 Contact
 
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please contact Hafeez Rahman at hafeezrahmansh@gmail.com.
